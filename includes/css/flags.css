@@ -1,0 +1,21 @@
+#flag {
+	width: 16px;
+	height: 11px;
+	display: inline-block;
+	background:url(../img/flags.png) no-repeat
+}
+
+#flag.flag-id {background-position: -16px 0}
+#flag.flag-in {background-position: -32px 0}
+#flag.flag-my {background-position: 0 -11px}
+#flag.flag-ph {background-position: -16px -11px}
+#flag.flag-sg {background-position: -32px -11px}
+#flag.flag-vn {background-position: 0 -22px}
+
+.dp_menu {
+	width: 114px;
+}
+
+.subCatergory_section .search{
+	min-height: 430px;
+}
